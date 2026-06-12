@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/Users/100wo/Downloads/mrs/data/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "wakup1.0 (Minecraft 1.20.1)",
+    "description": "wakup1.0 Running Minecraft 1.20.1 (Fabric v0.17.3)",
+    "icon": "Wakup_logo.png",
+    "address": "gangmu.gangserver.p-e.kr",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": false,
+    "autoconnect": true
+  },
+  "fabric": {
+    "version": "0.17.3"
+  },
+  "untrackedFiles": []
+}
